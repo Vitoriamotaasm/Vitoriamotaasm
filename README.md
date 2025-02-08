@@ -1,11 +1,11 @@
 # Oii, devs! Eu sou a Vitória Mota.
 - 👩🏼‍💻 Atualmente trabalho com Front-end.
-- 🌟 Estou estudando JavaScript
+- 🌟 Estou estudando Angular
   
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Luana Vitória Mota, tenho 16 anos e sou natural do Ceará. Estou concluindo o ensino médio na EEEP Leonel de Moura Brizola, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio da Sá. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu instagram "[Vitória Mota](https://www.instagram.com/vitoriamotaasm.dev/)" onde compartilho dicas de programação, entre outras coisas.
+Me chamo Luana Vitória Mota, tenho 16 anos e sou natural do Ceará. Estou concluindo o ensino médio na EEEP Leonel de Moura Brizola, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio da Sá. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu instagram [Vitória Mota](https://www.instagram.com/vitoriamotaasm.dev/) onde compartilho dicas de programação, entre outras coisas.
 ---
 <div>
     <a href="https://instagram.com/Vitoriamotaasm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
