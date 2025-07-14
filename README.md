@@ -1,56 +1,41 @@
-# Oii, devs! Eu sou a Vitória Mota.
-- 👩🏼‍💻 Atualmente trabalho com Front-end.
-- 🌟 Estou estudando Angular
-  
 
-**`Desenvolvedora FullStack`**
+<h1 align="center">Oii, Devs! 🖖🏻</h1>
 
-Me chamo Luana Vitória Mota e sou natural do Ceará. Estou concluindo o curso técnico em Redes de Computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio da Sá. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu instagram [Vitória Mota](https://www.instagram.com/vitoriamotaasm.dev/) onde compartilho dicas de programação, entre outras coisas.
+**`Desenvolvedora FullStack`** **`Pesquisadora`** **`Analista de Sistemas`**
+
+Sou a Vitória, tenho 17 anos e sou apaixonada por desenvolvimento web 🚀  
+Atualmente estou focada em aprender **Angular 18, Python e MySQL**, com planos de me tornar uma dev **fullstack**!
+
+About me:
+- 👩🏼‍💻 Estudante de Análise de Sistemas + Técnico em Redes de Computadores
+- 📰 Fundadora Tech Mota News - Um jornal tech
+- 💛 CEO de duas comunidades tech
+- 🗄 Escritora de artigos científicos
+- 💡 Gosto de ensinar programação de um jeito simples e divertido — como se fosse Lego, só que com código!
+- 🧱 Amo ver ideias ganhando vida com tecnologia.
 ---
-<div>
-    <a href="https://instagram.com/Vitoriamotaasm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://github.com/Vitoriamotaasm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/channel/UCORuXOSurtQra1ZEuqLldyg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
----
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-
-
 <br/>
 
 ---
@@ -60,13 +45,13 @@ Me chamo Luana Vitória Mota e sou natural do Ceará. Estou concluindo o curso t
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Vitoriamotaasm&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Vitoriamotaasm&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
   />
 <p>
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoriamotaasm&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoriamotaasm&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
