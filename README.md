@@ -7,9 +7,10 @@ Sou a Vitória, tenho 17 anos e sou apaixonada por desenvolvimento web 🚀
 Atualmente estou focada em aprender **Angular 18, Python e MySQL**, com planos de me tornar uma dev **fullstack**!
 
 About me:
+- 💜 Embaixadora DIO
 - 👩🏼‍💻 Estudante de Análise de Sistemas + Técnico em Redes de Computadores
 - 📰 Fundadora Tech Mota News - Um jornal tech
-- 💛 CEO de duas comunidades tech
+- 👾 CEO de duas comunidades tech
 - 🗄 Escritora de artigos científicos
 - 💡 Gosto de ensinar programação de um jeito simples e divertido — como se fosse Lego, só que com código!
 - 🧱 Amo ver ideias ganhando vida com tecnologia.
