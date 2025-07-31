@@ -1,7 +1,7 @@
 
 <h1 align="center">Oii, Devs! 🖖🏻</h1>
 
-**`Desenvolvedora FullStack`** **`Pesquisadora`** **`Analista de Sistemas`**
+**`Desenvolvedora FullStack`** **`Pesquisadora`** **`Analista de Sistemas`** **`Embaixadora DIO`**
 
 Sou a Vitória, tenho 17 anos e sou apaixonada por desenvolvimento web 🚀  
 Atualmente estou focada em aprender **Angular 18, Python e MySQL**, com planos de me tornar uma dev **fullstack**!
